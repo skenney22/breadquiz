@@ -1,0 +1,105 @@
+body {
+	padding: 60px;
+	font-family: 'Josefin Sans', sans-serif;
+	background-image: url("http://www.colourmeasure.com/perch/resources/bread.jpg");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+
+.header {
+	width: 100%;
+	text-align: left;
+	position: fixed;
+	margin-bottom: 60px;
+}
+
+.breadimg {
+	height: 80px;
+	width: 80px;
+}
+
+.imageblock {
+	display:inline-block;
+	vertical-align: middle;
+
+}
+
+.title {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+	font-size: 40px;
+	text-shadow: 3px 3px 0px #FFFFFF;
+	
+}
+
+.bbtitle {
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.progress {
+	display: inline-block;
+	vertical-align: middle;
+	float:right;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 1px 1px 0px #FFFFFF;
+}
+
+.openmessage {
+	text-shadow: 2px 2px 0px #FFFFFF;
+}
+.openingpage {
+	margin-top: 120px;
+	text-align:center;
+	font-size: 25px;
+}
+.congrats,.sorry,.goodscore,.badscore {
+	margin-top: 120px;
+	text-align:center;
+	font-size: 25px;
+	background-color: #fdf5e6;
+	padding: 15px 10px 15px 10px;
+	border-radius: 25px;
+
+}
+
+.labelBreadQ {
+	font-size: 30px;
+	text-shadow: 2px 2px 0px #FFFFFF;
+}
+
+.questions {
+	margin-top: 150px;
+	text-align:center;
+	background-color: #fdf5e6;
+	padding: 15px 10px 15px 10px;
+	border-radius: 25px;
+}
+
+.questionclass {
+	text-align:center;
+	display:inline-block;
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: 1px 1px 0px #FFFFFF;
+}
+
+
+.button {
+	background-color: #faebd7;
+	font-family:'Josefin Sans', sans-serif;
+	padding: 10px 10px 10px 10px;
+	font-size: 12px;
+	border-radius: 4px;
+
+}
+
+.congratscss, .sorrycss {
+	text-shadow: 2px 2px 1px #FFFFFF;
+}
+
+
